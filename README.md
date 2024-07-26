@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/647db67c-9e92-40c2-b7f1-6ea51e8acbcc)# DSPL
+# Dedicated server pricing list
 
 | Name | RAM | CPU | Disk | Price |
 | ---- | --- | --- | ---- | ----- |
