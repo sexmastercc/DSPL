@@ -1,4 +1,4 @@
-# DSPL
+![image](https://github.com/user-attachments/assets/647db67c-9e92-40c2-b7f1-6ea51e8acbcc)# DSPL
 
 | Name | RAM | CPU | Disk | Price |
 | ---- | --- | --- | ---- | ----- |
@@ -12,7 +12,7 @@
 | Serverroom | 64 GB | X-Gene Octa-Core ARM v8 64-bit | SATA-SSD 256 GB | 49.99 usd |
 | Linksecured | 64GB DDR3 RAM | Intel Xeon Dual E5-2660v2 2.2Ghz / 20 Cores | 1TB HD | 129 usd |
 | Colocross | 64 GB | INTEL XEON E3-1270V6 4 Cores / 8 Threads | 1 TB SSD | 119.95 usd |
-
-
-
-
+| Hostkey | 64 GB | 2 × Xeon E5-2670 16 cores | 4×240Gb SSD | 95 usd |
+| Reliablesite | 64GB DDR4 | 	4 x 3.50 GHz+	| 2x2TB SSD | 49 usd |
+| Wholesaleinternet | 64GB DDR3 | 2.26GHz - 2 processors 8 Cores / 16 threads | Dual Xeon 5520 240GB SSD + 4TB | 35 usd |
+| Hostingmzd | 64GB DDR3 | 12 Cores / 12 Threads | 	2.66Ghz | 130 usd |
